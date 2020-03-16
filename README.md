@@ -41,3 +41,4 @@ extraPostCSSPlugins: [
 // 直接在文件里引入一次就可以了
 import 'amfe-flexible';
 ```
+<img src="./1.jpg">

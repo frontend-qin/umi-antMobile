@@ -1,5 +1,9 @@
 import React from 'react';
-
+import { Button } from 'antd-mobile';
 export default () => {
-  return <div>Home</div>;
+  return (
+    <>
+      <Button type="primary">Home</Button>
+    </>
+  );
 };
